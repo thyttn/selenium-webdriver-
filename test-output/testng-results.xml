@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42242" started-at="2020-09-09T16:08:57Z" finished-at="2020-09-09T16:09:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42242" started-at="2020-09-09T16:08:57Z" finished-at="2020-09-09T16:09:39Z">
+      <class name="webdriver.Topic_01_Check_Selenium">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:webdriver.Topic_01_Check_Selenium@6ea12c19]" name="beforeClass" is-config="true" duration-ms="40795" started-at="2020-09-09T23:08:57Z" finished-at="2020-09-09T23:09:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="TC_01_ValidateCurrentUrl()[pri:0, instance:webdriver.Topic_01_Check_Selenium@6ea12c19]" name="TC_01_ValidateCurrentUrl" duration-ms="30" started-at="2020-09-09T23:09:38Z" finished-at="2020-09-09T23:09:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_ValidateCurrentUrl -->
+        <test-method status="PASS" signature="TC_02_ValidatePageTitle()[pri:0, instance:webdriver.Topic_01_Check_Selenium@6ea12c19]" name="TC_02_ValidatePageTitle" duration-ms="22" started-at="2020-09-09T23:09:38Z" finished-at="2020-09-09T23:09:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_ValidatePageTitle -->
+        <test-method status="PASS" signature="TC_03_LoginFormDisplayed()[pri:0, instance:webdriver.Topic_01_Check_Selenium@6ea12c19]" name="TC_03_LoginFormDisplayed" duration-ms="262" started-at="2020-09-09T23:09:38Z" finished-at="2020-09-09T23:09:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03_LoginFormDisplayed -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:webdriver.Topic_01_Check_Selenium@6ea12c19]" name="afterClass" is-config="true" duration-ms="1109" started-at="2020-09-09T23:09:38Z" finished-at="2020-09-09T23:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- webdriver.Topic_01_Check_Selenium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
