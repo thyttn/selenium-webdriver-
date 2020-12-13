@@ -44,7 +44,6 @@ public class Topic_12_PopUp {
 		}
 	}
 	
-	
 	public void TC02_Fixed_Popup() throws InterruptedException {
 		driver.get("https://bni.vn/");
 		sleepSec(5);
