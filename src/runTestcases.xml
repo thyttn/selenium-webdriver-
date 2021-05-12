@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+	<suite-files>
+		<suite-file path ="runSuite1.xml" />
+		<suite-file path ="runSuite2.xml" />
+	</suite-files>
+</suite> 

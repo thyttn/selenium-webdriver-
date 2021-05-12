@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+	<parameter name ="url" value ="http://live.demoguru99.com/index.php/customer/account/login/"/>
+  <test name="run on FF">
+  	<parameter name ="browser" value ="firefox"/>
+  	<classes>
+  		<class name ="testNG.Topic21_TestNG_Loop"/>
+  	</classes>   	
+  </test> 
+  
+<!--	<test name="run on Chrome">
+  	<parameter name ="browser" value ="chrome"/>
+  		<classes>
+  			<class name ="testNG.Topic21_TestNG_Parameter"/>
+  		</classes>   	
+  	</test>
+ -->
+</suite> <!-- Suite -->
